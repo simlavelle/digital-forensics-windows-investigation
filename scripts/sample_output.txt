@@ -1,0 +1,9 @@
+[*] Examiner run at 2026-07-16 02:49:16 UTC
+[*] Evidence root: ./sample_evidence
+[+] Integrity manifest: 4 files hashed -> scripts/manifest.csv
+[+] Timeline: 4 entries -> scripts/timeline.csv
+
+[*] Earliest 3 by modified time:
+    2026-07-16 02:49:12 UTC  logger_placeholder.bin
+    2026-07-16 02:49:12 UTC  todo.txt
+    2026-07-16 02:49:12 UTC  notes_correspondence.txt

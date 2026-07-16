@@ -1,0 +1,1 @@
+Zip the files, upload to the share link, delete local copies after.
